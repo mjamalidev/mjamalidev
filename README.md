@@ -9,7 +9,7 @@
 
 Senior Android & Kotlin Multiplatform Developer with **9 years of experience** building production mobile applications for **banking, fintech, and payment platforms**.
 
-- 🏦 Recently led KMP architecture for **NextBank (Parsian Bank)** — one of Iran's largest private banks
+- 🏦 Recently led KMP architecture for **NewBank (Parsian Bank)** — one of Iran's largest private banks
 - 📱 Achieved **90%+ shared business logic** and **~80% shared UI** across Android, iOS, and Web from a single Kotlin codebase
 - 🚀 Enabled **1 team to ship features to 3 platforms simultaneously**
 - 💳 Maintained **Pasinno** — a live payment app with **68,000+ active users**
